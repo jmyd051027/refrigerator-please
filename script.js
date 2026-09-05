@@ -28,8 +28,7 @@ button.addEventListener("click", async () => {
     const data = await response.json();  // 서버 응답을 JSON으로 받기
 
     // 7. 받아온 추천 메뉴를 화면에 표시
-    result.innerText = data.menu;
-
+    result.innerText = data.result;
   } catch (error) {
     // 8. 에러가 나면 알려주기
     result.innerText = "앗! 오류가 발생했어요 😢 다시 시도해주세요.";
