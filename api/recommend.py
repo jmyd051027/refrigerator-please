@@ -23,7 +23,7 @@ class handler(BaseHTTPRequestHandler):
             'Authorization': f'Bearer {api_key}'
         }
         data = {
-            'model': 'gpt-4o-mini',
+            'model': 'gpt-5.5',
             'messages': [{'role': 'user', 'content': prompt}]
         }
         req = urllib.request.Request(
