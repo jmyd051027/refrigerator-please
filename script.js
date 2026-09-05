@@ -34,4 +34,4 @@ button.addEventListener("click", async () => {
     // 8. 에러가 나면 알려주기
     result.innerText = "앗! 오류가 발생했어요 😢 다시 시도해주세요.";
     console.error(error);  // 개발자 도구에 자세한 에러 출력
-  }
+  }});
