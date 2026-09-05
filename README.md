@@ -130,3 +130,26 @@ Vercel 프로젝트 → **Settings → Environment Variables**에서 설정:
 ---
 
 > 💜 남은 재료로 오늘 저녁 메뉴, AI에게 물어보세요!
+>
+> 컴퓨터 스크린샷
+> <img width="1906" height="944" alt="image" src="https://github.com/user-attachments/assets/49132806-4bfa-42b0-83b7-aa610eddf7af" />
+<img width="1900" height="944" alt="image" src="https://github.com/user-attachments/assets/7f26be49-ab23-4917-af59-86c70d16b22b" />
+<img width="570" height="745" alt="image" src="https://github.com/user-attachments/assets/2f0707f9-8e97-422a-b591-af4b1f96665a" />
+<img width="530" height="728" alt="image" src="https://github.com/user-attachments/assets/72bfe5a6-f87e-4787-b189-dcd3531c2d9d" />
+<img width="1901" height="944" alt="image" src="https://github.com/user-attachments/assets/70c031d1-016b-471e-bebc-f73a20a18211" />
+
+모바일 스크린샷
+<img width="563" height="1218" alt="IMG_1838" src="https://github.com/user-attachments/assets/0027427b-6493-4f1d-a715-3814624b395f" />
+<img width="563" height="1218" alt="IMG_1837" src="https://github.com/user-attachments/assets/5acd0f61-9dec-497d-adeb-f91796283fc6" />
+<img width="563" height="1218" alt="IMG_1843" src="https://github.com/user-attachments/assets/113642a3-2719-4507-93e5-ea0a1f06a669" />
+<img width="563" height="1218" alt="IMG_1842" src="https://github.com/user-attachments/assets/3680de32-36d6-4ce2-94e3-e2b40e9af63e" />
+<img width="563" height="1218" alt="IMG_1841" src="https://github.com/user-attachments/assets/e190aa5a-ab7c-471a-a721-c9905d6bdc94" />
+<img width="563" height="1218" alt="IMG_1840" src="https://github.com/user-attachments/assets/28a2eda2-18ff-42a4-8d7e-650f5dec088b" />
+<img width="563" height="1218" alt="IMG_1836" src="https://github.com/user-attachments/assets/0c2c1105-5185-44a9-a8e1-3a5f8b57820d" />
+
+대화로그
+<img width="203" height="51" alt="image" src="https://github.com/user-attachments/assets/6ed21ee7-109b-4997-8fe4-b246bb55999f" />
+
+배포 대시보드
+<img width="1888" height="945" alt="image" src="https://github.com/user-attachments/assets/6e8ceea0-e634-4be1-8cd5-0c9dab6926e3" />
+
