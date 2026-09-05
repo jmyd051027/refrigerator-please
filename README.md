@@ -20,8 +20,7 @@
 
 ## 🖥️ 배포 URL
 
-👉 **[냉장고를 부탁해 바로가기](여기에_Vercel_URL_입력)**
-
+👉 **[냉장고를 부탁해 바로가기]https://refrigerator-please.vercel.app/
 ---
 
 ## ✨ 주요 기능
@@ -71,7 +70,7 @@
 
 ### 1. 저장소 클론
 ```bash
-git clone 여기에_GitHub_주소
+git clone https://github.com/jmyd051027/refrigerator-please.git
 ```
 
 ### 2. Vercel 배포
