@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>냉장고를 부탁해 🍳</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🍳 냉장고를 부탁해</h1>
+        <p class="subtitle">냉장고 속 재료를 입력하면 메뉴를 추천해드려요!</p>
+
+        <!-- 재료 입력 영역 -->
+        <div class="input-area">
+            <input 
+                type="text" 
+                id="ingredients" 
+                placeholder="예: 계란, 김치, 대파, 밥"
+            >
+            <button id="recommendBtn">메뉴 추천받기</button>
+        </div>
+
+        <!-- 결과 표시 영역 -->
+        <div id="result" class="result-area">
+            <p class="placeholder">재료를 입력하고 버튼을 눌러보세요! 😊</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
