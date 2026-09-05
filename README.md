@@ -109,22 +109,10 @@ Vercel 프로젝트 → **Settings → Environment Variables**에서 설정:
 
 ---
 
-## 📸 스크린샷
-
-| 데스크톱 | 모바일 |
-|:--------:|:------:|
-| ![데스크톱](./images/screenshot-desktop.png) | ![모바일](./images/screenshot-mobile.png) |
-
-**AI 동작 장면**
-
-![AI동작](./images/screenshot-ai.png)
-
----
-
 ## 👩‍💻 만든 사람
 
-- **이름**: 여기에_이름
-- **제작 기간**: 여기에_기간
+- **이름**: 윤지민
+- **제작 기간**: 2026.9.5
 
 ---
 
