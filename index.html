@@ -7,26 +7,42 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>🍳 냉장고를 부탁해</h1>
-        <p class="subtitle">냉장고 속 재료를 입력하면 메뉴를 추천해드려요!</p>
-
-        <!-- 재료 입력 영역 -->
-        <div class="input-area">
-            <input 
-                type="text" 
-                id="ingredients" 
-                placeholder="예: 계란, 김치, 대파, 밥"
-            >
-            <button id="recommendBtn">메뉴 추천받기</button>
-        </div>
-
-        <!-- 결과 표시 영역 -->
-        <div id="result" class="result-area">
-            <p class="placeholder">재료를 입력하고 버튼을 눌러보세요! 😊</p>
-        </div>
+  <!-- 🧭 상단 메뉴바 -->
+  <nav class="navbar">
+    <div class="logo">🍳 냉장고를 부탁해</div>
+    <div class="menu">
+      <a href="#home">홈</a>
+      <a href="#recommend">메뉴 추천</a>
+      <a href="#guide">사용법</a>
     </div>
+  </nav>
 
-    <script src="script.js"></script>
+  <!-- 🏠 섹션 1: 홈 -->
+  <section id="home" class="section">
+    <h1>🔍 냉장고를 부탁해</h1>
+    <p>냉장고 속 재료로 만들 수 있는 메뉴를 AI가 추천해드려요!</p>
+    <a href="#recommend" class="btn">지금 시작하기 →</a>
+  </section>
+
+  <!-- 🍳 섹션 2: 메뉴 추천 -->
+  <section id="recommend" class="section">
+    <h2>🍳 메뉴 추천받기</h2>
+    <p>가지고 있는 재료를 입력해보세요!</p>
+    <input type="text" id="ingredients" placeholder="김치, 계란, 밥">
+    <button id="recommendBtn">메뉴 추천받기</button>
+    <div id="result"></div>
+  </section>
+
+  <!-- ℹ️ 섹션 3: 사용법 -->
+  <section id="guide" class="section">
+    <h2>ℹ️ 사용법</h2>
+    <ol>
+      <li>냉장고 속 재료를 쉼표(,)로 구분해 입력해요.</li>
+      <li>'메뉴 추천받기' 버튼을 눌러요.</li>
+      <li>AI가 추천하는 요리와 조리법을 확인해요!</li>
+    </ol>
+  </section>
+
+  <script src="js/script.js"></script>
 </body>
 </html>
